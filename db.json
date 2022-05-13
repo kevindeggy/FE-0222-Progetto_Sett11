@@ -1,0 +1,114 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "iPhone 13",
+      "price": 799,
+      "description": "Uno dei migliori smartphone in commercio, con schermo ampio",
+      "quantity": 5,
+      "urlImage": "https://www.blobvideo.com/public/media/ecommerce/prodotti/1638975790_13promax_oro.jpeg"
+    },
+    {
+      "id": 2,
+      "name": "iPhone SE",
+      "price": 499,
+      "description": "Ha un'ottima fotocamera anche se piccolo",
+      "quantity": 1,
+      "urlImage": "https://www.blobvideo.com/public/media/ecommerce/prodotti/1638696426_1603991380_iphone-se-2020-nero-1.jpg"
+    },
+    {
+      "id": 3,
+      "name": "iPhone 12",
+      "price": 599,
+      "description": "Il penultimo modello della melamorsicata, ottima CPU",
+      "quantity": 1,
+      "urlImage": "https://www.blobvideo.com/public/media/ecommerce/prodotti/1607961259_iphone-11-pro-max-grigio-siderale-1.jpg"
+    },
+    {
+      "id": 4,
+      "name": "iPhone X",
+      "price": 499,
+      "description": "Il primo iphone senza tasto Home, la rivoluzione. Usato garantito",
+      "quantity": 2,
+      "urlImage": "https://www.blobvideo.com/public/media/ecommerce/prodotti/1548407247_IPHONE-X-GRIGIO-SIDERALE-1.jpg"
+    },
+    {
+      "id": 5,
+      "name": "iPhone XS",
+      "price": 599,
+      "description": "Stesse caratteristiche dell'iPhoneX ma più veloce",
+      "quantity": 3,
+      "urlImage": "https://www.blobvideo.com/public/media/ecommerce/prodotti/1636491801_1602865356_IPHONE-XS-ARGENTO-1.jpg"
+    },
+    {
+      "id": 6,
+      "name": "iPhone 11",
+      "price": 449,
+      "description": "Fotocamera potente anche al buio. Usato come nuovo",
+      "quantity": 2,
+      "urlImage": "https://www.blobvideo.com/public/media/ecommerce/prodotti/1607358688_iPhone-11-bianco-1.jpg"
+    },
+    {
+      "id": 7,
+      "name": "iPhone XR",
+      "price": 399,
+      "description": "Stesse caratteristiche del fratello maggiore, ma con fotocamera grandangolare",
+      "quantity": 2,
+      "urlImage": "https://www.blobvideo.com/public/media/ecommerce/prodotti/1603113704_IPHONE-XR-GIALLO-1.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Airpods Serie 2",
+      "price": 129,
+      "description": "Le rivoluzionarie cuffie della Apple",
+      "quantity": 5,
+      "urlImage": "https://www.blobvideo.com/public/media/ecommerce/prodotti/1559320661_AURICOLARI-APPLE-AIRPODS-SERIE-2-CON-CUSTODIA-DI-RICARICA-1.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Airpods Pro",
+      "price": 249,
+      "description": "Le nuove cuffie Pro, con sistema di cancellazione del rumore",
+      "quantity": 5,
+      "urlImage": "https://www.blobvideo.com/public/media/ecommerce/prodotti/1572336780_apple-airpods-pro-1.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Homepod Mini",
+      "price": 99,
+      "description": "Il nuovo piccolo Homepod. Nuovo!",
+      "quantity": 11,
+      "urlImage": "https://www.blobvideo.com/public/media/ecommerce/prodotti/1648918042_166473.jpeg"
+    },
+    {
+      "id": 11,
+      "name": "Macbook pro 13pollici",
+      "price": 999,
+      "description": "Macbook con i7, di fine 2018. Usato garantito",
+      "quantity": 3,
+      "urlImage": "https://www.blobvideo.com/public/media/ecommerce/prodotti/1634844849_sp775-mbp13touch-silver.jpeg"
+    },
+    {
+      "id": 12,
+      "name": "iMac 5K 27pollici",
+      "price": 1999,
+      "description": "Schermo da 5k retina. Prestazioni da Pro",
+      "quantity": 8,
+      "urlImage": "https://www.blobvideo.com/public/media/ecommerce/prodotti/1637218070_IMAC-RETINA-5K-27-2017-1.jpg"
+    }
+  ],
+  "prices": [
+    {
+      "type": "1-Giorno",
+      "price": 25.99
+    },
+    {
+      "type": "2-Giorni",
+      "price": 9.99
+    },
+    {
+      "type": "5-Giorni",
+      "price": 2.99
+    }
+  ]
+}
