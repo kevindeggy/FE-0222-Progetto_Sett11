@@ -14,6 +14,7 @@ import { ProdottiComponent } from './pages/prodotti.component';
 import { IphoneComponent } from './pages/iphone.component';
 import { MacComponent } from './pages/mac.component';
 import { AccessoriesComponent } from './pages/accessories.component';
+
 // My routes app
 const routes: Routes = [
   {
