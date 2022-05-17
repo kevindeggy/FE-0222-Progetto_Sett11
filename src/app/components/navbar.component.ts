@@ -4,12 +4,12 @@ import { ServiceCartService } from '../services/service-cart.service';
 @Component({
   selector: "app-navbar",
   template: `
-    <nav class="navbar navbar-expand-lg navbar-dark bg-dark d-flex justify-content-evenly">
+    <nav class="navbar navbar-expand navbar-dark bg-dark d-flex justify-content-evenly">
       <div class="cointener-fluid">
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="navbarToggler" aria-expanded="false" aria-controls="navbarToggler" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
-        <div class="collapse navbar-collapse " id="navbarToggler">
+        <div class="collapse navbar-collapse" id="navbarToggler">
           <a class="navbar-brand mx-5" href="javascript:void(0)"><i class="bi bi-apple"></i> Apple Store</a>
           <ul class="navbar-nav mb-2 mb-lg-0">
             <li class="nav-item">
