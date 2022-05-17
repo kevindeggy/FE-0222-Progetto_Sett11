@@ -7,7 +7,7 @@ import { HomeComponent } from './pages/home.component';
 import { FooterComponent } from './components/footer.component';
 import { ProdottoComponent } from './pages/prodotto.component';
 import { CarrelloComponent } from './pages/carrello.component';
-import { Route, RouterModule } from '@angular/router';
+import { Routes, RouterModule } from '@angular/router';
 import { FormsModule } from '@angular/forms';
 import { HttpClientModule } from '@angular/common/http';
 import { ProdottiComponent } from './pages/prodotti.component';
@@ -15,7 +15,7 @@ import { IphoneComponent } from './pages/iphone.component';
 import { MacComponent } from './pages/mac.component';
 import { AccessoriesComponent } from './pages/accessories.component';
 // My routes app
-const routes: Route[] = [
+const routes: Routes = [
   {
     path: '',
     component: HomeComponent
